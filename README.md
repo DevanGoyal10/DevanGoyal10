@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevanGoyal10
 - 👀 I’m interested in AI/ML stuff.
-- 🌱 I’m currently learning C++, DSA, ML & CyberSecurity.
+- 🌱 I’m currently learning DSA, AI & Data Science.
 - 📫 How to reach me -> mail me at <devangoyal10@gmail.com>
 
 <!---
